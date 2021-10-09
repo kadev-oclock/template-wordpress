@@ -80,8 +80,8 @@ if ( ! defined( 'ABSPATH' ) ) {
  ```
 1/6 --url=<url>: http://localhost/template-wordpress
 2/6 --title=<site-title>: e-blog
-3/6 --admin_user=<username>: kdev
-4/6 [--admin_password=<password>]: azerty94
+3/6 --admin_user=<username>: xxx
+4/6 [--admin_password=<password>]: xxxx
 5/6 --admin_email=<email>: salut@truc.com
 6/6 [--skip-email] (Y/n): valider par entrée 
  ``` 
